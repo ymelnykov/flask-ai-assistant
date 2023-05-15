@@ -4,7 +4,7 @@
 
 ### Challenge
 
-Using LangChain library and OpenAI API, create an application that allows user to speak to GPT-3.5-turbo. Application should save previous conversation history into a memory (Chroma), and when new conversion starts — retrieve previous conversations from memory and use them in the prompt to set the context.
+Using LangChain library and OpenAI API, create an application that allows user to chat to GPT-3.5-turbo. Application should save previous conversation history into a memory (Chroma), and when new conversion starts — retrieve previous conversations from memory and use them in the prompt to set the context.
 
 ### Installation
 
