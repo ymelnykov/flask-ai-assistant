@@ -22,14 +22,14 @@ Using LangChain library and OpenAI API, create an application that allows user t
    ```sh
    git clone https://github.com/ymelnykov/flask-ai-assistant.git
    ```
-4. Install required packages
+4. Install required packages:
    ```sh
    pip install -r requirements.txt
    ```
  
  ### Usage
  
- From the project directory run:
+ Switch to the project directory and run the following command in your terminal:
   ```sh
  flask --app assistant run
  ```
